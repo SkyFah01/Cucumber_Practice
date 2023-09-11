@@ -1,0 +1,9 @@
+utils/BrowserUtils.class
+com/test/iride/pages/IRideMainPage.class
+com/test/iride/pages/BrandsPage.class
+utils/ConfigReader.class
+com/test/iride/stepdefinations/IRideHook.class
+com/test/iride/stepdefinations/BrandsStepDef.class
+com/test/iride/runners/IRideReRunner.class
+com/test/iride/runners/IRideRunner.class
+utils/DriverHelper.class

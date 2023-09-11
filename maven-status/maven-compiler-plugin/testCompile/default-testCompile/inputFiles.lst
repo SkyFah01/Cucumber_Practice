@@ -1,0 +1,13 @@
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/com/test/iride/runners/IRideRunner.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/com/test/iride/pages/BrandsPage.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/utils/ConfigReader.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/utils/DriverHelper.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/com/test/iride/stepdefinations/IRideHook.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/com/test/iride/pages/FootersPage.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/com/test/iride/runners/IRideReRunner.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/com/test/iride/pages/LinkHomePage.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/com/test/iride/pages/IRideMainPage.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/utils/BrowserUtils.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/com/test/iride/stepdefinations/LinkCheckingStepDef.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/com/test/iride/stepdefinations/FootersStepDef.java
+/Users/fah/IdeaProjects/InterviewCucumber/src/test/java/com/test/iride/stepdefinations/BrandsStepDef.java
